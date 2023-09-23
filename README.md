@@ -3,7 +3,7 @@
 ## Intructions 💕
 
 1. open `main.py` 
-2. Enojoy 😁
+2. Enjoy 😁
 
 ## Features 👌
 
