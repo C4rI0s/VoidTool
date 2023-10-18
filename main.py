@@ -12,12 +12,12 @@ try:
 except ModuleNotFoundError:
     os.system("pip install requests")
     os.system("pip install ctypes")
-    os.system("pip install colore")
+    os.system("pip install colored")
     os.system("pip install otertools")
     os.system("pip install multiprocessing.spawn")
     os.system("pip install pystyle")
     os.system("pip install discord")
-    os.system("pip instaññ fileinput")
+    os.system("pip install fileinput")
 
 import os, requests, random, threading, json, time, multiprocessing
 from colorama import Fore
